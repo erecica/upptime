@@ -5,10 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Alliander
     url: https://www.alliander.com/nl/
+    slug: alliander
   - name: Luminis
     url: https://www.luminis.eu
+    slug: luminis
   - name: Google
     url: https://www.google.com
+    slug: google
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
