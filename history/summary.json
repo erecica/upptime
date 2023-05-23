@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Luminis",
+    "url": "https://www.luminis.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/www.luminis.eu.ico",
+    "slug": "luminis",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Recica",
+    "url": "https://www.recica.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.recica.nl.ico",
+    "slug": "recica",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
+    "dailyMinutesDown": {}
+  }
+]
