@@ -6,9 +6,6 @@ sites:
   - name: Luminis
     url: https://www.luminis.eu
     slug: luminis
-  - name: Google
-    url: https://www.google.com
-    slug: google
   - name: Recica
     url: https://www.recica.nl
     slug: recica    
