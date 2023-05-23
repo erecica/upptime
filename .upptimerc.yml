@@ -10,7 +10,7 @@ sites:
     - erecica
   - name: Recica
     url: https://www.recica.nl
-    slug: recica  
+    slug: recica
     assignees:
     - erecica      
 
