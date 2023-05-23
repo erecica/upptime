@@ -1,23 +1,5 @@
 [
   {
-    "name": "Luminis",
-    "url": "https://www.luminis.eu",
-    "icon": "https://icons.duckduckgo.com/ip3/www.luminis.eu.ico",
-    "slug": "luminis",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 797,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Recica",
     "url": "https://www.recica.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.recica.nl.ico",
@@ -28,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 402,
+    "timeDay": 402,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Luminis",
+    "url": "https://www.luminis.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/www.luminis.eu.ico",
+    "slug": "luminis",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 721,
+    "timeDay": 721,
+    "timeWeek": 721,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {}
   }
 ]
