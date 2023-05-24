@@ -13,6 +13,9 @@ sites:
     slug: luminis
     assignees:
     - erecica
+  - name: GOPACS
+    url: $GOPACS_URL
+    slug: gopacs 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
