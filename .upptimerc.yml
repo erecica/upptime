@@ -15,6 +15,7 @@ sites:
     - erecica
   - name: GOPACS
     url: $GOPACS_URL
+    icon: $GOPACS_ICON_URL
     slug: gopacs 
 
 status-website:
