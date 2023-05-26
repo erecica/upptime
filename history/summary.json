@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.recica.nl.ico",
     "slug": "recica",
     "status": "up",
-    "uptime": "90.38%",
+    "uptime": "92.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.38%",
-    "uptimeMonth": "90.38%",
-    "uptimeYear": "90.38%",
-    "time": 360,
-    "timeDay": 362,
-    "timeWeek": 360,
-    "timeMonth": 360,
-    "timeYear": 360,
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "92.70%",
+    "time": 406,
+    "timeDay": 863,
+    "timeWeek": 406,
+    "timeMonth": 406,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2023-05-23": 277
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 822,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "time": 691,
+    "timeDay": 799,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,19 @@
     "icon": "$GOPACS_ICON_URL",
     "slug": "gopacs",
     "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 3931,
-    "timeDay": 5931,
-    "timeWeek": 3931,
-    "timeMonth": 3931,
-    "timeYear": 3931,
+    "uptime": "62.90%",
+    "uptimeDay": "35.49%",
+    "uptimeWeek": "62.90%",
+    "uptimeMonth": "62.90%",
+    "uptimeYear": "62.90%",
+    "time": 3441,
+    "timeDay": 5915,
+    "timeWeek": 3441,
+    "timeMonth": 3441,
+    "timeYear": 3441,
     "dailyMinutesDown": {
-      "2023-05-25": 13
+      "2023-05-26": 39,
+      "2023-05-25": 890
     }
   }
 ]
