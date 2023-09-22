@@ -1,7 +1,7 @@
 url: $GOPACS_URL
-status: down
-code: 503
-responseTime: 427
-lastUpdated: 2023-09-22T14:03:12.041Z
+status: up
+code: 200
+responseTime: 1184
+lastUpdated: 2023-09-22T14:29:00.878Z
 startTime: Wed May 24 2023 06:55:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
