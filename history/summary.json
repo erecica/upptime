@@ -4,7 +4,7 @@
     "url": "https://www.recica.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.recica.nl.ico",
     "slug": "recica",
-    "status": "up",
+    "status": "down",
     "uptime": "21.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 313,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-03-16": 220,
+      "2024-03-16": 251,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -272,7 +272,7 @@
     "timeMonth": 648,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2024-03-16": 220,
+      "2024-03-16": 251,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -511,7 +511,7 @@
     "timeMonth": 1337,
     "timeYear": 1379,
     "dailyMinutesDown": {
-      "2024-03-16": 220,
+      "2024-03-16": 252,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
